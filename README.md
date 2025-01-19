@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python related to zero division. The function `function_with_uncommon_error` attempts to handle division by zero but fails to do so when both input arguments are zero. The solution involves adjusting the order of checks and a more robust error handling mechanism.
